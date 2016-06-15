@@ -1,4 +1,4 @@
-# Vagrant learn-csa
+# Vagrant learn-devstack
 
 Vagrant learn-devstack creates ready-to-go [Devstack All-In-One] (http://docs.openstack.org/developer/devstack/) VM.
 
